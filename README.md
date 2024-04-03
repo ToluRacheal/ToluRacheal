@@ -1,12 +1,16 @@
-** I’m currently learning -data science with CoGrammer-**
+**Hi, my name is Tolu Racheal Dawodu👋**
 
-<!--
-**ToluRacheal/ToluRacheal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-** I’m currently learning data science with CoGrammer**
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:point_right: I’m currently learning **Data science with CoGrammer!**
+
+💬 Ask me about **anything**
+
+📫 How to reach me **toluracheal02@gmail.com**
+
+😄 Pronouns **She/Her**
+
+⚡ Fun fact: **I love doing photography and baking**
+
+
+**Connect with me on linkedin:**
+
+www.linkedin.com/in/racheal-toluwalope-dawodu-1b5137286 
