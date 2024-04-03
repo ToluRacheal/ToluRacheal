@@ -4,7 +4,7 @@
 
 💬 Ask me about **anything**
 
-📫 How to reach me **toluracheal02@gmail.com**
+📫 How to reach me toluracheal02@gmail.com
 
 😄 Pronouns **She/Her**
 
